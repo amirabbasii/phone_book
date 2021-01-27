@@ -1,1 +1,1 @@
-# phone_book
+This is the forth project of Advanced Programming course.It's an application wich saves contacts,gropus and the locations..Note that I implemented a class for its user interface which is based on swing.
